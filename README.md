@@ -1,6 +1,6 @@
 # Frontend Mentor - Huddle landing page with alternating sections
 
-![Header/intro section for the Huddle landing page with alternating sections](./design/desktop-preview.png)
+![Header/intro section for the Huddle landing page with alternating sections](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
