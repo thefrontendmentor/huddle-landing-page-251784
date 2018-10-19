@@ -1,15 +1,22 @@
 # Front-end Style Guide
 
+## Layout
+
+The designs were created to the following widths:
+
+- Mobile: 375px
+- Desktop: 1440px
+
 ## Colors
 
 ### Primary
 
-- hsl(322, 100%, 66%)
+- Pink: hsl(322, 100%, 66%)
 
 ### Neutral
 
-- hsl(192, 100%, 9%)
-- hsl(207, 100%, 98%)
+- Very Dark Cyan: hsl(192, 100%, 9%)
+- Very Pale Blue: hsl(207, 100%, 98%)
 
 ## Typography
 
